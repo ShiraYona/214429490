@@ -1,0 +1,11 @@
+.Eee {
+
+    display: flex;
+    border: solid;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 34px;
+    align-content: space-around;
+}
